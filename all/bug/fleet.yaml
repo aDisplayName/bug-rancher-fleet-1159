@@ -1,0 +1,5 @@
+defaultNamespace: bug-rancher-fleet-1159
+
+helm:
+  releaseName: bug-rancher-fleet-1159
+  takeOwnership: true
